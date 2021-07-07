@@ -1,0 +1,32 @@
+Project: Mitogenomes from fragment libraries
+-----------------------
+Project name         = batch:/n/holyscratch01/edwards_lab/gbravo/antbird_mitogenomes/00_scripts/batch.txt
+Type                 = mito
+Genome Range         = 16500-17500
+K-mer                = 23
+Max memory           = 
+Extended log         = 1
+Save assembled reads = no
+Seed Input           = batch
+Extend seed directly = no
+Reference (optional) = 
+Variance detection   = no
+Heteroplasmy         = 
+HP exclude list      =                      
+Chloroplast sequence = 
+
+Dataset 1:
+-----------------------
+Read Length          = 125
+Insert size          = 220
+Platform             = illumina
+Single/Paired        = PE
+Combined reads       = 
+Forward reads        = batch
+Reverse reads        = batch
+
+Optional:
+-----------------------
+Insert size auto     = yes      
+Use Quality Scores   = no
+Output path	     =/n/holyscratch01/edwards_lab/gbravo/antbird_mitogenomes/05_mitogenomes/
