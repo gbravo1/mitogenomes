@@ -1,0 +1,16 @@
+Scan48517
+/n/holyscratch01/edwards_lab/gbravo/antbird_mitogenomes/00_scripts/Rhof_MN356411.fasta
+/n/holyscratch01/edwards_lab/gbravo/antbird_mitogenomes/03_trimmed-reads/Sak_can_LSUB48517_sub_trimmed_1.fastq
+/n/holyscratch01/edwards_lab/gbravo/antbird_mitogenomes/03_trimmed-reads/Sak_can_LSUB48517_sub_trimmed_2.fastq
+Sluc77596
+/n/holyscratch01/edwards_lab/gbravo/antbird_mitogenomes/00_scripts/Rhof_MN356411.fasta
+/n/holyscratch01/edwards_lab/gbravo/antbird_mitogenomes/03_trimmed-reads/Sak_luc_LSUB77596_sub_trimmed_1.fastq
+/n/holyscratch01/edwards_lab/gbravo/antbird_mitogenomes/03_trimmed-reads/Sak_luc_LSUB77596_sub_trimmed_2.fastq
+TbriLSUB72218
+/n/holyscratch01/edwards_lab/gbravo/antbird_mitogenomes/00_scripts/Rhof_MN356411.fasta
+/n/holyscratch01/edwards_lab/gbravo/antbird_mitogenomes/03_trimmed-reads/Tha_bri_LSUB72218_sub_trimmed_1.fastq
+/n/holyscratch01/edwards_lab/gbravo/antbird_mitogenomes/03_trimmed-reads/Tha_bri_LSUB72218_sub_trimmed_2.fastq
+TrufLSUB31583
+/n/holyscratch01/edwards_lab/gbravo/antbird_mitogenomes/00_scripts/Rhof_MN356411.fasta
+/n/holyscratch01/edwards_lab/gbravo/antbird_mitogenomes/03_trimmed-reads/Tha_ruf_LSUB31583_sub_trimmed_1.fastq
+/n/holyscratch01/edwards_lab/gbravo/antbird_mitogenomes/03_trimmed-reads/Tha_ruf_LSUB31583_sub_trimmed_2.fastq
