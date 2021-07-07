@@ -1,0 +1,20 @@
+# Annotation performed using MITOS web server
+# Citation: M. Bernt, A. Donath, F. Jühling, F. Externbrink, C. Florentz, G. Fritzsch, J. Pütz, M. Middendorf, P. F. Stadler
+# MITOS: Improved de novo Metazoan Mitochondrial Genome Annotation
+# Molecular Phylogenetics and Evolution 2013, 69(2):313-319
+# Available at http://mitos.bioinf.uni-leipzig.de/index.py
+
+
+Property	Value
+Genetic Code	2
+Proteins	True
+tRNAs	True
+rRNAs	True
+BLAST E-value Exponent	2.0
+Cutoff	50%
+Maximum Overlap	20.0%
+Clipping Factor	10.0
+Fragment Overlap	20.0%
+Fragment Quality Factor	10.0
+Start/Stop Range	6 aa
+Final Maximum Overlap	35 nt
