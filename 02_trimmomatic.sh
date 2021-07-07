@@ -12,6 +12,9 @@
 
 module load jdk/1.8.0_172-fasrc01
 
+mkdir -p ../03_trimmed-reads/
+mkdir -p ../04_orphaned-reads/
+
 cd ../02_subsampled/
 
 for file in *_R1.fastq;
