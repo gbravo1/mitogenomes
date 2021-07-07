@@ -3,7 +3,7 @@
 
 
 
-**This is a small pipeline to generate avian mitogenomes from Illumina short paired-end reads.**
+**This is a small pipeline to generate avian mitogenomes from Illumina short paired-end reads when having deep whole-genome coverage.**
 
 It uses the following programs:
 
