@@ -15,6 +15,7 @@ module load seqtk/1.2-fasrc01
 
 # 1. Subsample sequences (In this case subsampling to 20% yields files of 6-8 Gb)
 
+mkdir -p ../02_subsampled/
 cd ../01_rawreads/
 
 for file in *.fastq.gz;
