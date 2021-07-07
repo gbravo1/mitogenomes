@@ -18,4 +18,6 @@ module load perl/5.26.1-fasrc01
 # The config file contains informtion on the parameters ofthe assembly.
 # The batch file is necessary when running several samples at a time. It contains information on the reference used and the paths to the forward and reverse subsampled and clean read files.
 
+mkdir -p ../05_mitogenomes/
+
 perl NOVOPlasty4.3.1.pl -c 03_config.txt
